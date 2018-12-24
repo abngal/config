@@ -1,0 +1,11 @@
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+
+alias d2='cd ~/dev/pccw/inventory.ui.crm/'
+alias bs='source ~/.bashrc'
+alias be='vi ~/.bashrc'
+alias cfdu="docker-compose -f docker/docker-compose.yml up"
+alias localns="export NODE_ENV=local && npm start"
+alias nsl=localns
