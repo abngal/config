@@ -1,3 +1,5 @@
+Moved to gitlab (re: private popjects)
+
 # config
 
 #should be applicable to both mac and linux 
