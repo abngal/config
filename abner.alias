@@ -7,3 +7,7 @@ alias be='vi ~/.bashrc'
 alias cfdu="docker-compose -f docker/docker-compose.yml up"
 alias localns="export NODE_ENV=local && npm start"
 alias nsl=localns
+
+# Vagrant
+alias vu="vagrant up "
+alias vus="vu & vagrant ssh"
