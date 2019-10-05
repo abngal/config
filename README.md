@@ -1,4 +1,4 @@
-Moved to gitlab (re: private popjects)
+Moved to gitlab (re: private projects)
 
 # config
 
